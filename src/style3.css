@@ -124,7 +124,7 @@ li:last-child{
     text-decoration: underline;
 }
 
-li:nth-child(2n){
+li:nth-child(2n){   /*선택자 설명 https://lalacode.tistory.com/6*/
     background-color: chartreuse;
 }
 input:focus{    /*인풋 태그에 글 적으려면 빨개짐 */
